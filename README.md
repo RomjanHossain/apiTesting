@@ -4,5 +4,5 @@
 
 
 
-You can view the site opening [this](https://github.com/RomjanHossain/apiTesting) link in the browser.
+You can view the site opening [this](https://romjanhossain.github.io/apiTesting/) link in the browser.
 
